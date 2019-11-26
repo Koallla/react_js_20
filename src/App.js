@@ -23,7 +23,7 @@ const App = () => {
 
       <Mailbox name="Vitalii" unreadMessages={[]} />
 
-      <Product1 productUrl={url} productPrice={400}>
+      <Product1 productUrl={url} productPrice={price}>
         Hello world
       </Product1>
 
